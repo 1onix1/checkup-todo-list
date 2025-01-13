@@ -1,2 +1,1 @@
-# checkup-todo-list
-Приложение для управления задачами с функцией авторизации
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://ya.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fbusinessyield.com%2Ftech%2Fwp-content%2Fuploads%2Fsites%2F2%2F2023%2F08%2Fmk_metarespbasics_072920.jpg&lr=54&pos=4&rpt=simage&text=картинки%20для%20репозитория)
